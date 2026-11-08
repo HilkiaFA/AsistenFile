@@ -1,0 +1,28 @@
+## .NET / C# Build Outputs
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+*.exe
+*.dll
+*.pdb
+!*.bat
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Local Application Data / DB
+asisten_file.db
+asisten_file.db-shm
+asisten_file.db-wal
+settings.json
+
+## OS Generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store

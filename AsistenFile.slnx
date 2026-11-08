@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AsistenFile.App/AsistenFile.App.csproj" />
+  <Project Path="AsistenFile.Core/AsistenFile.Core.csproj" />
+  <Project Path="AsistenFile.Tests/AsistenFile.Tests.csproj" />
+</Solution>
